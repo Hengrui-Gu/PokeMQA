@@ -1,4 +1,6 @@
 # PokeMQA
+<img src="fig/PokeMQA.png" width="800">
+
 This is the repository for our paper [PokeMQA: Programmable knowledge editing for Multi-hop Question Answering](https://arxiv.org).
 
 ## Training Dataset for Scope Detector
