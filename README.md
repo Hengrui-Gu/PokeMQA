@@ -1,7 +1,7 @@
 # PokeMQA
 <img src="fig/PokeMQA.png" width="800">
 
-This is the repository for our paper [PokeMQA: Programmable knowledge editing for Multi-hop Question Answering](https://arxiv.org).
+This is the repository for our paper [PokeMQA: Programmable knowledge editing for Multi-hop Question Answering]([https://arxiv.org](https://arxiv.org/abs/2312.15194)).
 
 We release the `PokeMQA-turbo_n_edited.py` to run PokeMQA on `GPT-3.5-turbo-instruct`.
 
@@ -42,5 +42,12 @@ If you have any questions about our paper, feel free to email Hengrui Gu `guhr22
 ## Citation
 If you use our code in your research, please cite our work:
 ```bibtex
-
+@misc{gu2023pokemqa,
+      title={PokeMQA: Programmable knowledge editing for Multi-hop Question Answering}, 
+      author={Hengrui Gu and Kaixiong Zhou and Xiaotian Han and Ninghao Liu and Ruobing Wang and Xin Wang},
+      year={2023},
+      eprint={2312.15194},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
