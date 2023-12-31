@@ -42,12 +42,10 @@ If you have any questions about our paper, feel free to email Hengrui Gu `guhr22
 ## Citation
 If you use our code in your research, please cite our work:
 ```bibtex
-@misc{gu2023pokemqa,
-      title={PokeMQA: Programmable knowledge editing for Multi-hop Question Answering}, 
-      author={Hengrui Gu and Kaixiong Zhou and Xiaotian Han and Ninghao Liu and Ruobing Wang and Xin Wang},
-      year={2023},
-      eprint={2312.15194},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{gu2023pokemqa,
+  title={PokeMQA: Programmable knowledge editing for Multi-hop Question Answering},
+  author={Gu, Hengrui and Zhou, Kaixiong and Han, Xiaotian and Liu, Ninghao and Wang, Ruobing and Wang, Xin},
+  journal={arXiv preprint arXiv:2312.15194},
+  year={2023}
 }
 ```
