@@ -38,7 +38,7 @@ logging.info(f'PokeMQA on GPT-3.5-turbo-instruct')
 def call_gpt(cur_prompt, stop):
   
     ans = openai.Completion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-3.5-turbo-instruct",
         prompt= cur_prompt,
         temperature=0,
         stop=stop,
