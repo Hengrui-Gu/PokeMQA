@@ -29,6 +29,9 @@ Each instance in `cls-filtered.json` represents a (1edit,4questions) pair:
 ## Pregenerated Knowledge Prompt
 We propose knowledge prompt generator (Section 3.3) to enrich contextual information. Specifically, we leverage [ELQ](https://github.com/facebookresearch/BLINK/tree/main/elq), an off-the-shelf entity linking model. It recognizes the key entity in multi-hop questions, links it to Wikidata, and then retrieves the related knowledge facts to construct knowledge prompt. Here we provide the pregenerated knowledge prompt for both MQA dataset, [MQuAKE-CF-3k](https://github.com/princeton-nlp/MQuAKE/tree/main) and [MQuAKE-T](https://github.com/princeton-nlp/MQuAKE/tree/main) in `kgprompt\`.
 
+## Detector Checkpoints
+We release the detector checkpoints trained by us (pre-detector & conflict disambiguator) in [\[Google Drive\]](https://drive.google.com/drive/folders/1VUB8erInZ8Bdfdo80V218953Algjlv69?usp=drive_link).
+
 ## Commands
 To run PokeMQA:
 ```python
