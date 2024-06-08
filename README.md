@@ -1,7 +1,7 @@
 # PokeMQA
 <img src="fig/PokeMQA.png" width="800">
 
-This is the repository for our paper [PokeMQA: Programmable knowledge editing for Multi-hop Question Answering](https://arxiv.org/abs/2312.15194).
+[PokeMQA: Programmable knowledge editing for Multi-hop Question Answering](https://arxiv.org/abs/2312.15194) has been accepted by **ACL 2024 Main Conference** !
 
 We release the `PokeMQA-turbo_n_edited.py` to run PokeMQA on `GPT-3.5-turbo-instruct`.
 
